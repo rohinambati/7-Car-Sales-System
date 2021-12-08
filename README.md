@@ -1,0 +1,2 @@
+# 7-Car-Sales-System
+Group Members:- •Rohin Ambati•  •Prathamesh Lambate•  •Sarthak More•  •Kaushal Nikam•  With the help of this project we intend to make online cars shopping efficient and effective . Users can also sell their old cars through appropriate market value . Users can also avail EMI feature in case of loan. Users can also share their thoughts &amp; reviews &amp; also the changes that they would like to see .
